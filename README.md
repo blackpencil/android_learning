@@ -1,2 +1,1 @@
-hello github! this is the seconed commit.
-yes, it's the third commit.
+a palce to learn android
